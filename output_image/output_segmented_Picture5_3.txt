@@ -1,0 +1,11 @@
+Surface_B: 173.06
+Crack_B: 133.94
+Length: 137.48px
+Thickness: 4.12px
+
+
+
+Estimated depth: '''
+- 밝기 173.06: 0 mm ~ 10 mm (표면)
+- 밝기 133.94: 30 mm ~ (깊은 균열)
+'''
